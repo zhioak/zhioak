@@ -44,7 +44,7 @@
 [![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=fff)](https://www.elastic.co/elasticsearch/)
 [![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=fff)](https://www.elastic.co/kibana)
 [![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=fff)](https://www.elastic.co/logstash)
-[![Apache RocketMQ](https://img.shields.io/badge/Apache%20RocketMQ-D71F00?style=flat&logo=apacherocketmq&logoColor=fff)](https://rocketmq.apache.org/)
+[![RocketMQ](https://img.shields.io/badge/RocketMQ-D71F00?style=flat&logo=apacherocketmq&logoColor=fff)](https://rocketmq.apache.org/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=fff)](https://www.rabbitmq.com/)
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)

@@ -19,6 +19,7 @@
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.postgresql.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=fff)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=fff)](https://www.lua.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
